@@ -1,0 +1,3 @@
+module,type,name,res_id,src,value,comments
+series_document_file,model,"ir.model,name",series_document_file.model_documents_document,المستند,,
+series_document_file,model,"ir.model.fields,field_description",series_document_file.field_documents_document__sequence_number,Sequence Number,رقم المسلسل,
